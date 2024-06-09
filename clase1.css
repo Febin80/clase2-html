@@ -1,0 +1,25 @@
+body{
+
+    background-color: antiquewhite;
+}
+
+h1{
+
+    font-size: 280%;
+    text-align: center;
+    color: gray;
+}
+
+h2{
+    font-size: 210%;
+}
+
+p{
+    font-size: 180%;
+}
+
+img{
+
+    margin: 5%;
+    width: 45%; 
+}
